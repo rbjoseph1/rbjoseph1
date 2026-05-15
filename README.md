@@ -54,7 +54,7 @@ Analyzed FY 2025 USCIS Employer Data Hub records using pandas to rank states and
 
 ## 📈 GitHub Stats
 
-![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbjoseph1&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rbjoseph1&hide_border=true&background=ffffff&ring=534AB7&fire=534AB7&currStreakLabel=534AB7)
 
 ---
 
